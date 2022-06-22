@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarioCanales
 - 👀 I’m interested in Software Develop, DS and Maths
-- 🌱 I’m currently developing my skills
+- 🌱 I’m currently upgrading my skills
 - 📫 How to reach me: canalestorresmario@gmail.com
 
 <!---
