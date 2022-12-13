@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarioCanales
-- 👀 I’m interested in Software Develop, DS and Maths
-- 🌱 I’m currently upgrading my skills
+- 👀 Currently I work at @Amazon as Software Developer Engineer
+- 🌱 Upgrading my skills
 - 📫 How to reach me: canalestorresmario@gmail.com
 
 <!---
