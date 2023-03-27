@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioCanales
-- 👀 Currently I work at @Amazon as Software Developer Engineer
+- 👀 Currently working at @Amazon as Software Developer Engineer
 - 🌱 Upgrading my skills
 - 📫 How to reach me: canalestorresmario@gmail.com
 
